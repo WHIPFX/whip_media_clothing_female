@@ -5,6 +5,7 @@ name 'whip_media_clothing_female'
 author 'Whippy'
 description 'whip\'s clothing pictures for the character editor: the female body.'
 version '1.0.0'
+whip_updates 'WHIPFX/whip_media_clothing_female'   -- whip_core checks this repository's releases for a newer version
 lua54 'yes'
 
 -- A MEDIA PACK: whip's pictures, videos and map live apart from whip_core, one pack per category, so a change to one
